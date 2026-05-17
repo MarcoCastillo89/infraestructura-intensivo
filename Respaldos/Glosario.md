@@ -1,7 +1,5 @@
 # Diccionario de Backups
 
-# Diccionario de Backups
-
 ## 1. Backup Full
 Es un respaldo donde se guarda toda la información completa cada vez que se realiza.  
 **Ejemplo:** Cada domingo se hace una copia completa de todos los archivos de la empresa.
